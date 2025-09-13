@@ -2,7 +2,13 @@
 
 A sophisticated multi-agent system built with CrewAI that intelligently routes natural language queries to specialized agents for SQL database analysis or time series forecasting. Supports both SQLite and PostgreSQL databases with a clean, modular architecture.
 
-[![Python 3.8+](https://img.shields.io/badgehttps://www.python.org/downloadshttps://img.shields.io/badgehttps://opensource.org/licenseshttps://img.shields.io/badgehttps://github.com/crewAI 🚀 Features
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![CrewAI](https://img.shields.io/badge/CrewAI-0.28.8+-green.svg)](https://github.com/crewAIInc/crewAI)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+
+🚀 Features
 
 - **Intelligent Query Routing**: Automatically determines if queries need SQL analysis or forecasting
 - **Multi-Database Support**: Works with both SQLite and PostgreSQL databases
@@ -263,4 +269,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [3](https://docs.crewai.com/introduction)
 [4](https://composio.dev/blog/crewai-examples)
 [5](https://docs.crewai.com/concepts/knowledge)
+
 [6](https://docs.crewai.com/tools/overview)
