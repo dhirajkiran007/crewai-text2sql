@@ -1,0 +1,7 @@
+crewai
+langchain
+langchain-openai  
+pandas
+openai
+psycopg[binary]  # For Psycopg3 with binary support
+pydantic
