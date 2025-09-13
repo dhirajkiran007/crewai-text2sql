@@ -264,10 +264,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub!
 
-[1](https://docs.crewai.com)
-[2](https://docs.crewai.com/tools/database-data/overview)
-[3](https://docs.crewai.com/introduction)
-[4](https://composio.dev/blog/crewai-examples)
-[5](https://docs.crewai.com/concepts/knowledge)
 
-[6](https://docs.crewai.com/tools/overview)
